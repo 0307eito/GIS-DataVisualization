@@ -16,4 +16,6 @@
 
 #  過程詳述
 
-
+![過程詳述-1](https://user-images.githubusercontent.com/66252302/125850176-5cf0c993-6ba8-480a-b293-8d6276f3c3ef.png)
+![過程詳述-2](https://user-images.githubusercontent.com/66252302/125850164-07ed2467-2dd0-4107-9c61-13265c649c7f.png)
+![過程詳述-3](https://user-images.githubusercontent.com/66252302/125850172-b28f7803-8dba-4653-a2e8-43c162238411.png)
